@@ -1,11 +1,13 @@
-# Expo Router Example
+# Veegil App built with React Native Expo 
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
 ## 🚀 How to use
 
 ```sh
-npx create-expo-app -e with-router
+After git cloning the file
+npm install
+npx expo start
 ```
 
 ## 📝 Notes
